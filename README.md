@@ -1,7 +1,17 @@
 # gruvbox-bspwm
 
-## Packages
+## Preview
+
+![Screenshot](screenshot.png)
+
+## Install
 
 ```
-bspwm sxhkd polkit-gnome gruvbox-material-gtk-theme gruvbox-dark-icons-gtk lxappearance font-manager thunar thunar-archive-plugin file-roller gvfs gvfs-mtp flameshot brightnessctl kitty polybar neovim rofi nitrogen numlockx picom
+yay -S bspwm sxhkd polkit-gnome gruvbox-material-gtk-theme gruvbox-dark-icons-gtk lxappearance font-manager thunar thunar-archive-plugin file-roller gvfs gvfs-mtp flameshot brightnessctl kitty polybar neovim rofi nitrogen numlockx picom
 ```
+
+Copy `gruvbox-bspwm/.config` to `~/.config`
+
+### Font
+
+Install [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
