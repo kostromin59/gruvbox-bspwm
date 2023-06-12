@@ -7,7 +7,7 @@
 ## Install
 
 ```
-yay -S bspwm sxhkd polkit-gnome gruvbox-material-gtk-theme gruvbox-dark-icons-gtk lxappearance font-manager thunar thunar-archive-plugin file-roller gvfs gvfs-mtp flameshot brightnessctl kitty polybar neovim rofi nitrogen numlockx picom
+yay -S bspwm sxhkd polkit-gnome gruvbox-material-gtk-theme gruvbox-dark-icons-gtk lxappearance font-manager thunar thunar-archive-plugin file-roller gvfs gvfs-mtp flameshot brightnessctl kitty polybar neovim rofi nitrogen numlockx picom dunst
 ```
 
 Copy `gruvbox-bspwm/.config` to `~/.config`
