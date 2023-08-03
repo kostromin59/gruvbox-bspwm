@@ -8,7 +8,7 @@ Print
 
 # terminal emulator
 super + Return
-	kitty
+  alacritty	
 
 # program launcher
 super + d
